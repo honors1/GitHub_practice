@@ -4,13 +4,13 @@
 
 #### commit
 
-------
+
 
 하나 또는 다수의 파일에 변경 내용을 저장할 때마다 새로운 commit을 생성한다.
 
 예: "이 변경 내용을 commit하고 이를 GitHub에 push합시다."
 
-
+------
 
 
 #### commit message
